@@ -1,3 +1,10 @@
 h1 {
   color: red;
 }
+
+
+@media screen and (max-width < 576px) {
+  section .card img{
+    width: 50%;
+  }
+}
