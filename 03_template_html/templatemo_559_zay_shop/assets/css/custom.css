@@ -1,0 +1,14 @@
+/*
+Custom Css
+*/
+
+
+
+.month-products img{
+  border-radius: 5px;
+}
+
+.sect-month-products{
+  background: url("../../images/22_bg_month_products.jpg");
+  color: white
+}
